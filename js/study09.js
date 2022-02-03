@@ -27,7 +27,7 @@ btn?.addEventListener("click", function () {
     }
 });
 let links = document.querySelectorAll(".naver");
-link.forEach((naver) => {
+links.forEach((naver) => {
     if (naver instanceof HTMLAnchorElement) {
         naver.href = "kakao.com";
     }
