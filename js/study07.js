@@ -2,11 +2,11 @@ let name2;
 let 접니다;
 접니다 = '대머리';
 접니다 = '솔로';
-function 함수(a) {
+function 함수8(a) {
     console.log(a);
     return 1;
 }
-함수('hello');
+함수8('hello');
 function 가위바위보(a) {
     return [a];
 }

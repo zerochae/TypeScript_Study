@@ -7,12 +7,12 @@ let 접니다 :'대머리' | '솔로';
 접니다 = '솔로';
 // 접니다 = '권영채' 
 
-function 함수(a :'hello') :1 | 0{
+function 함수8(a :'hello') :1 | 0{
   console.log(a);
   return 1;
 }
 
-함수('hello')
+함수8('hello')
 
 // 가위 바위 보 
 // 가위 바위 보 어레이 함수 리턴
